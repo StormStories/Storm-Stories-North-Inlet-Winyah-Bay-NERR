@@ -1,0 +1,8 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Matthew,niw,niwolmet,Oyster Landing (OL),atemp,56.3,79.88,70.2752879581152,70.7,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),bp,28.673517599811,30.297661233168,29.9020226270032,30.0023623907394,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),intensprcp,0,1.03937007874016,0.0398235560869028,0,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),maxwspd,4.02649533349075,70.4636683360881,21.5792666331234,17.0007580747387,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),rh,32,98,75.9336823734729,81,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),totprcp,0,0.259842519685039,0.00995588902172569,0,5.70472440944882
+Matthew,niw,niwolmet,Oyster Landing (OL),wspd,2.46063603713324,52.3444393353797,13.9721027715371,10.2899325189208,NA

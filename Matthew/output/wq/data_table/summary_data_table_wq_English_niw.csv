@@ -1,0 +1,57 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median
+Matthew,niw,niwcbwq,Clambank (CB),cdepth,2.7230972,11.811024,6.88546970680628,6.8241472
+Matthew,niw,niwdcwq,Debidue Creek (DC),cdepth,6.3320212,15.1902892,9.75251161465969,9.6128612
+Matthew,niw,niwolwq,Oyster Landing (OL),cdepth,3.6745408,12.7624676,7.3580867027972,7.2506564
+Matthew,niw,niwtawq,Thousand Acre (TA),cdepth,7.3490816,13.7467196,9.74684314764398,9.6456696
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),cdepth,1.9028872,8.2021,4.27557007539267,4.1666668
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),cdepth,15.2230976,21.5879272,17.5867910883072,17.4868772
+Matthew,niw,niwolwq,Oyster Landing (OL),chlfluor,5.2,22.9,10.7788461538462,10.1
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),chlfluor,6.1,13.9,7.74816753926702,7.4
+Matthew,niw,niwcbwq,Clambank (CB),depth,2.46063,10.498688,6.87104088167539,6.889764
+Matthew,niw,niwdcwq,Debidue Creek (DC),depth,6.069554,13.779528,9.7380827895288,9.7112864
+Matthew,niw,niwolwq,Oyster Landing (OL),depth,3.4120736,11.3845148,7.34340322307692,7.3162732
+Matthew,niw,niwtawq,Thousand Acre (TA),depth,7.4475068,12.3687668,9.73241432251309,9.7440948
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),depth,1.968504,6.889764,4.26114125026178,4.265092
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),depth,15.2887144,20.2755912,17.5723622631763,17.552494
+Matthew,niw,niwcbwq,Clambank (CB),do_mgl,3.8,7.4,5.79476439790576,5.9
+Matthew,niw,niwdcwq,Debidue Creek (DC),do_mgl,3.9,7.3,5.7043630017452,5.9
+Matthew,niw,niwolwq,Oyster Landing (OL),do_mgl,3.4,7,5.35909090909091,5.5
+Matthew,niw,niwtawq,Thousand Acre (TA),do_mgl,2.8,7.2,5.33280977312391,5.6
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),do_mgl,4.1,7.4,5.92705061082024,6.1
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),do_mgl,4.1,6.9,5.70157068062827,5.8
+Matthew,niw,niwcbwq,Clambank (CB),do_pct,53.5,103.4,81.7015706806283,84.6
+Matthew,niw,niwdcwq,Debidue Creek (DC),do_pct,50.4,101.2,78.0094240837696,80.9
+Matthew,niw,niwolwq,Oyster Landing (OL),do_pct,48.1,96.8,74.5265734265734,78
+Matthew,niw,niwtawq,Thousand Acre (TA),do_pct,31.8,92.1,65.360907504363,66.8
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),do_pct,47,94.1,72.9111692844677,74.4
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),do_pct,46.7,92.1,72.6879581151832,75.2
+Matthew,niw,niwcbwq,Clambank (CB),ph,7,7.9,7.52094240837696,7.6
+Matthew,niw,niwdcwq,Debidue Creek (DC),ph,7,8,7.65497382198953,7.7
+Matthew,niw,niwolwq,Oyster Landing (OL),ph,6.6,7.8,7.4229020979021,7.5
+Matthew,niw,niwtawq,Thousand Acre (TA),ph,5.8,7.5,6.64904013961606,6.6
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),ph,6.3,7.8,7.01692844677138,7.1
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),ph,6.2,7.9,7.21431064572426,7.4
+Matthew,niw,niwcbwq,Clambank (CB),sal,21.7,35.5,31.9113438045375,33.4
+Matthew,niw,niwdcwq,Debidue Creek (DC),sal,2.3,34.8,26.0010471204188,30.5
+Matthew,niw,niwolwq,Oyster Landing (OL),sal,7.1,35,29.070979020979,33.1
+Matthew,niw,niwtawq,Thousand Acre (TA),sal,0.3,25.6,9.46684118673647,9.9
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),sal,0.1,25.9,6.01797556719023,5.9
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),sal,0.1,26.6,11.6671902268761,13.7
+Matthew,niw,niwcbwq,Clambank (CB),spcond,34.5,53.76,48.7794938917976,50.9
+Matthew,niw,niwdcwq,Debidue Creek (DC),spcond,4.39,52.84,40.2091623036649,46.94
+Matthew,niw,niwolwq,Oyster Landing (OL),spcond,12.28,53.01,44.7096153846154,50.465
+Matthew,niw,niwtawq,Thousand Acre (TA),spcond,0.55,40.06,15.8050087260035,16.92
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),spcond,0.17,40.51,10.3001745200698,10.41
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),spcond,0.21,41.45,19.0204886561955,22.7
+Matthew,niw,niwcbwq,Clambank (CB),temp,66.74,77.54,73.8608376963351,74.12
+Matthew,niw,niwdcwq,Debidue Creek (DC),temp,67.1,76.82,73.7025130890052,73.76
+Matthew,niw,niwolwq,Oyster Landing (OL),temp,66.74,77.18,73.7763636363636,74.12
+Matthew,niw,niwtawq,Thousand Acre (TA),temp,64.76,77.72,72.8882722513089,73.76
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),temp,71.42,78.08,74.8704712041885,75.38
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),temp,70.88,78.8,75.0778010471204,75.56
+Matthew,niw,niwcbwq,Clambank (CB),turb,6,858,41.259649122807,20
+Matthew,niw,niwdcwq,Debidue Creek (DC),turb,6,182,22.9877835951134,15
+Matthew,niw,niwolwq,Oyster Landing (OL),turb,6,138,26.3164335664336,18
+Matthew,niw,niwtawq,Thousand Acre (TA),turb,6,992,183.466135458167,74
+Matthew,niw,niwwswq,Winyah Bay Surface (WS),turb,4,197,20.5287958115183,13
+Matthew,niw,niwwbwq,Winyah Bay Bottom (WB),turb,3,945,41.3821989528796,20
